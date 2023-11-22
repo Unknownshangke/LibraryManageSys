@@ -1,0 +1,3 @@
+C:/Users/shangke/CLionProjects/LibraryManageSys/cmake-build-debug/CMakeFiles/LibraryManageSys.dir
+C:/Users/shangke/CLionProjects/LibraryManageSys/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shangke/CLionProjects/LibraryManageSys/cmake-build-debug/CMakeFiles/rebuild_cache.dir
